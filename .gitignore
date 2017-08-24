@@ -1,0 +1,5 @@
+# ignore all .vs files
+*.vs
+
+# ignore all content of packages directory
+Projects/weatherService/packages/
